@@ -18,7 +18,24 @@
 ![6](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
 
 ### 6. 管理修改
-![5](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+![7](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+
+### 7. 撤销修改
+![8](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+
+### 8. 删除文件
+![9](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+
+### 9. 远程仓库
+![10](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+![11](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+
+### 10. 添加到远程仓库
+![12](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+![13](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+
+### 11. 从远程仓库克隆
+![14](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
 
 
 
