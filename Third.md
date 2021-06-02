@@ -18,7 +18,7 @@
 ![6](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/[8]51`FXV24A_DCPA26RC$I.png)
 
 ### 6. 管理修改
-![7](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/UWAB2_}1%TISMMW6Y%MRVEF.png)
+![7](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/6.png)
 
 ### 7. 撤销修改
 ![8](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/}3S5X`H6AQ`657M$2Q_E]WN.png)
