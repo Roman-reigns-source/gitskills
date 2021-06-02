@@ -8,7 +8,18 @@
 ![2](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/)876%40SG~R%25UTEM%25OLR_%25HM1.png)
 
 ### 3. 版本控制
-![3]()
+![3](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/~G(MQT%5D3%5B%5BVN%25CRK9Q)%40%5DQS.png)
+
+### 4. 版本回退
+![4](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/W(71[Y)~_F6PJR87{_O7J6E.png)
+![5](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+
+### 5. 工作区和暂存区
+![6](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+
+### 6. 管理修改
+![5](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+
 
 
 
