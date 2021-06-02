@@ -31,7 +31,7 @@
 ![11](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/YU_Y4NN3MQ}9`KOTQ66YV9K.png)
 
 ### 10. 添加到远程仓库
-![12](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/4YJ_O}A7J1@)UCZ`W1QKX3V.png)
+![12](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/12.png)
 ![13](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/ZG{~82O[U(T~]TK)PXBP9S8.png)
 
 ### 11. 从远程仓库克隆
