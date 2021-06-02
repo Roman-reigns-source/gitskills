@@ -15,27 +15,27 @@
 ![5](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
 
 ### 5. 工作区和暂存区
-![6](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+![6](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/[8]51`FXV24A_DCPA26RC$I.png)
 
 ### 6. 管理修改
-![7](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+![7](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/UWAB2_}1%TISMMW6Y%MRVEF.png)
 
 ### 7. 撤销修改
-![8](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+![8](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/}3S5X`H6AQ`657M$2Q_E]WN.png)
 
 ### 8. 删除文件
-![9](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+![9](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/$H0EGG7H`4R4YTWFBW0~O2H.png)
 
 ### 9. 远程仓库
-![10](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
-![11](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+![10](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/[@TH%0([[CUMBXCU`(47D%9.png)
+![11](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/YU_Y4NN3MQ}9`KOTQ66YV9K.png)
 
 ### 10. 添加到远程仓库
-![12](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
-![13](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+![12](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/4YJ_O}A7J1@)UCZ`W1QKX3V.png)
+![13](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/gitskills/main/ZG{~82O[U(T~]TK)PXBP9S8.png)
 
 ### 11. 从远程仓库克隆
-![14](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/M}O9`LIQ5ZF]$I{7SH2KOO1.png)
+![14](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/7254HFJR%_Q`_62C(W0~1}K.png)
 
 
 
