@@ -5,7 +5,7 @@
 ![1](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/J%24%5BW2G%25~VR%60%5DX56%5BO3XG83K.png)
 
 ### 2. 创建版本库
-![2](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/)876@SG~R%UTEM%OLR_%HM1.png)
+![2](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/876@SG~R%UTEM%OLR_%HM1.png)
 
 ### 3. 版本控制
 ![3](https://raw.githubusercontent.com/Roman-reigns-source/gitskills/main/~G(MQT%5D3%5B%5BVN%25CRK9Q)%40%5DQS.png)
